@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:books: 读书ing ...
-* <a href='https://book.douban.com/subject/26905360/' target='_blank'>夜莺</a>
+<table>
+	<tr>
+		<td valign="top" width="50%">
+			### :books: 读书 ...
+			* <a href="https://book.douban.com/subject/26905360/" target="_blank">夜莺</a>
+		</td>
+		<td valign="top" width="50%">
+			### :star: Stars
+			* <a href="https://gist.github.com/rxaviers/7360908" target="_blank">Github Emoji</a>
+		</td>
+	</tr>
+</table>
