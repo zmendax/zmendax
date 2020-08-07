@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 	
 #### :books: 读书 ...
-			
-- <a href="https://book.douban.com/subject/26905360/" target="_blank">夜莺</a>
+
+* <a href="https://book.douban.com/subject/26905360/" target="_blank">夜莺</a>
+* <a href="https://book.douban.com/subject/4908883/" target="_blank">荒原狼</a>
 			
 </td>
 <td valign="top" width="50%">
 	
 #### :star: Stars
-		
-- <a href="https://gist.github.com/rxaviers/7360908" target="_blank">Github Emoji</a>
+
+* <a href="https://gist.github.com/rxaviers/7360908" target="_blank">Emoji</a>
 			
 </td>
 </tr>
