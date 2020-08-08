@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=zmendax&theme=radical)]
+![Stats](https://github-readme-stats.vercel.app/api?username=zmendax&theme=radical)
 
 ### :books: 最近在读...
 
