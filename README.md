@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+
+[![blog](https://img.shields.io/badge/Blog-mendax.cn-brightgreen)](https://www.mendax.cn/){:target="_blank"}
 
 <!--
 **zmendax/zmendax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
