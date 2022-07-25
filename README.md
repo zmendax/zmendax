@@ -15,13 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zmendax&theme=radical)
-
-### :books: 最近在读...
-
-- <a href="https://book.douban.com/subject/26905360/" target="_blank">夜莺</a>
-- <a href="https://book.douban.com/subject/4908883/" target="_blank">荒原狼</a>
-
-### :star: Recent Stars
-
-- <a href="https://gist.github.com/rxaviers/7360908" target="_blank">Github Emoji</a>
+![Stats](https://github-readme-stats.vercel.app/api?username=zmendax&theme=radical&show_icons=true)
